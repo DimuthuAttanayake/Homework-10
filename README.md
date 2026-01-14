@@ -6,11 +6,9 @@ These are homework assignments for [Computing Foundations](https://journalism.co
 
 Fancier data scraping with python.
 
-* [Assignment 1](https://github.com/DimuthuAttanayake/Homework-10/blob/main/scraping%20cosmetology%20violations.ipynb)
-* [Assignment 2](02-Billionaires.ipynb) - a simple example analysis with pandas using a dataset on billionaires 
-
+* [scraping cosmetology violations.ipynb](scraping%20cosmetology%20violations.ipynb) - Web scraping cosmetology violation data from the [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/cimsfo/fosearch.asp)  
+* [scraping wells in north dakota.ipynb](scraping%20wells%20in%20north%20dakota.ipynb) - Web scraping oil and gas well data from the [North Dakota Industrial Commission](https://www.dmr.nd.gov/oilgas/)
 
 ## Contact
 
 Dimuthu Attanayake, [dca@columbia.edu](mailto:dca@columbia.edu)
-
